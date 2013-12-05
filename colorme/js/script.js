@@ -40,5 +40,9 @@ $(document).ready(function(){
 			$( this ).removeClass().addClass("small_box " + currColor);
 
 	});
+	
+	$("#clear").click(function(){
+		$(".small_box").removeClass().addClass("small_box");
+	});	
 		
 });
