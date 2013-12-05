@@ -1,0 +1,47 @@
+h1{
+	color: blue;
+}
+
+#color_area{
+	width: 500px;
+	height: 500px;
+	float: left;
+}
+
+.small_box {
+	width: 10px;
+	height: 10px;
+	float: left;
+}
+
+.white{
+	background-color: white;
+}
+
+.erase{
+	background-color: white;
+}
+
+.red{
+	background-color: red;
+}
+
+.blue{
+	background-color: blue;
+}
+
+.green{
+	background-color: green;
+}
+
+.yellow{
+	background-color: yellow;
+}
+
+.orange{
+	background-color: orange;
+}
+
+.purple{
+	background-color: purple;
+}
