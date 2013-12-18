@@ -1,6 +1,7 @@
-gabu-hw
+Mini games adventure!
 =======
 
-A repo for my hw from gabe!
+I learn best when I'm making fun things, like mini games! Or just fun interactive things.
 
-[Color me project: codepen link](http://cdpn.io/leIwK)
+
+Color me project: [codepen link](http://cdpn.io/leIwK)
