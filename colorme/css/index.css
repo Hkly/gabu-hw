@@ -1,11 +1,19 @@
 h1{
-	color: blue;
+	color: #b91133;
+	font-family: courier;
+	margin-left: 200px;
+}
+
+body{
+	background-color: #f8e7ea;
 }
 
 #color_area{
 	width: 500px;
-	height: 500px;
+	height: 400px;
 	float: left;
+	border: 1px solid gray;
+	background-color: white;
 }
 
 .small_box {
