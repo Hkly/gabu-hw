@@ -4,7 +4,6 @@ $(document).ready(function(){
 		$('#color_area').append('<div class = "small_box" />');
 	}
 	
-	var colorList = ["red", "orange", "yellow", "green", "blue", "purple", "white"];
 	var currColor;
 
 	$("#erase").click(function(){
@@ -34,15 +33,14 @@ $(document).ready(function(){
 	$("#purple").click(function(){
 		currColor = "purple";
 	});
-	
-	$(".small_box").mouseover(
-		function(){
-			$( this ).removeClass().addClass("small_box " + currColor);
-
-	});
-	
-	$("#clear").click(function(){
-		$(".small_box").removeClass().addClass("small_box");
+    
+	$(".small_box").mouseover(function(){
+		$( this ).removeClass().addClass("small_box " + currColor);
+		});
+  
+  $("#clear").click(function(){
+    $(".small_box").removeClass().addClass("small_box");
+	currColor = "white";
 	});	
 		
 });
