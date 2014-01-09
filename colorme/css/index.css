@@ -9,8 +9,7 @@ body{
 }
 
 #color_area{
-	width: 500px;
-	height: 400px;
+	width: 504px;
 	float: left;
 	border: 1px solid gray;
 	background-color: white;
@@ -18,9 +17,26 @@ body{
 }
 
 .small_box {
-	width: 10px;
-	height: 10px;
+	width: 7px;
+	height: 7px;
 	float: left;
+}
+
+#palette {
+	width: 66px;
+	display: inline-block;
+	padding: 5px;
+}
+
+.swatch {
+	width: 22px;
+	height: 22px;
+	overflow: hidden;
+	float: left;
+}
+
+button {
+	margin-left: 5px;
 }
 
 
