@@ -5,4 +5,4 @@ I learn best when I'm making fun things, like mini games! Or just fun interactiv
 
 
 Color me project: [codepen link](http://codepen.io/Hkly/pen/leIwK)      
-Rock Paper Scissors: [codepen link] (http://codepen.io/Hkly/pen/dGeHc)
+Rock Paper Scissors: [codepen link](http://codepen.io/Hkly/pen/dGeHc)
